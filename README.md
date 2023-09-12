@@ -4,19 +4,18 @@
 Completed Python Crash Course Practical Exercises from the [Book](https://nostarch.com/python-crash-course-3rd-edition)
 
 ### Completed Exercises
-- [ ] Chapter 2 - Variables and Simple Data Types
-	- [ ] Exercise 2-1: Simple Message
-	- [ ] Exercise 2-2: Simple Messages
-	- [ ] Exercise 2-3: Personal Message
-	- [ ] Exercise 2-4: Name Cases
-	- [ ] Exercise 2-5: Famous Quote
-	- [ ] Exercise 2-6: Famous Quote 2
-	- [ ] Exercise 2-7: Stripping Names
-	- [ ] Exercise 2-8: File Extensions
-	- [ ] Exercise 2-9: Number Eight
-	- [ ] Exercise 2-10: Favourite Number
-	- [ ] Exercise 2-11: Adding Comments
-	- [ ] Exercise 2-12: Zen of Python
+- [x] Chapter 2 - Variables and Simple Data Types
+	- [x] Exercise 2-1: Simple Message
+	- [x] Exercise 2-2: Simple Messages
+	- [x] Exercise 2-3: Personal Message
+	- [x] Exercise 2-4: Name Cases
+	- [x] Exercise 2-5: Famous Quote
+	- [x] Exercise 2-6: Famous Quote 2
+	- [x] Exercise 2-7: Stripping Names
+	- [x] Exercise 2-8: File Extensions
+	- [x] Exercise 2-9: Number Eight
+	- [x] Exercise 2-10: Favourite Number
+	- [x] Exercise 2-11: Adding Comments
 - [ ] Chapter 3 - Introducing Lists
     - [ ] Exercise 3-1: Names
     - [ ] Exercise 3-2: Greetings
