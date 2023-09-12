@@ -1,0 +1,208 @@
+# Python Crash Course
+
+## Exercises
+Completed Python Crash Course Practical Exercises from the [Book](https://nostarch.com/python-crash-course-3rd-edition)
+
+### Completed Exercises
+- [ ] Chapter 2 - Variables and Simple Data Types
+	- [ ] Exercise 2-1: Simple Message
+	- [ ] Exercise 2-2: Simple Messages
+	- [ ] Exercise 2-3: Personal Message
+	- [ ] Exercise 2-4: Name Cases
+	- [ ] Exercise 2-5: Famous Quote
+	- [ ] Exercise 2-6: Famous Quote 2
+	- [ ] Exercise 2-7: Stripping Names
+	- [ ] Exercise 2-8: File Extensions
+	- [ ] Exercise 2-9: Number Eight
+	- [ ] Exercise 2-10: Favourite Number
+	- [ ] Exercise 2-11: Adding Comments
+	- [ ] Exercise 2-12: Zen of Python
+- [ ] Chapter 3 - Introducing Lists
+    - [ ] Exercise 3-1: Names
+    - [ ] Exercise 3-2: Greetings
+    - [ ] Exercise 3-3: Your Own List
+    - [ ] Exercise 3-4: Guest List
+    - [ ] Exercise 3-5: Changing Guest List
+    - [ ] Exercise 3-6: More Guests
+    - [ ] Exercise 3-7: Shrinking Guest List
+    - [ ] Exercise 3-8: Seeing the World
+    - [ ] Exercise 3-9: Dinner Guests
+    - [ ] Exercise 3-10: Every Function
+    - [ ] Exercise 3-11: Intentional Error
+- [ ] Chapter 4 - Working with Lists
+    - [ ] Exercise 4-1: Pizzas
+    - [ ] Exercise 4-2: Animals
+    - [ ] Exercise 4-3: Counting to Twenty
+    - [ ] Exercise 4-4: One Million
+    - [ ] Exercise 4-5: Summing a Million
+    - [ ] Exercise 4-6: Odd Numbers
+    - [ ] Exercise 4-7: Threes
+    - [ ] Exercise 4-8: Cubes
+    - [ ] Exercise 4-9: Cube Comprehension
+    - [ ] Exercise 4-10: Slices
+    - [ ] Exercise 4-11: My Pizzas, Your Pizzas
+    - [ ] Exercise 4-12: More Loops
+    - [ ] Exercise 4-13: Buffet
+    - [ ] Exercise 4-14: PEP 8
+    - [ ] Exercise 4-15: Code Review
+- [ ] Chapter 5 - if Statements
+    - [ ] Exercise 5-1: Conditional Tests
+    - [ ] Exercise 5-2: More Conditional Tests
+    - [ ] Exercise 5-3: Alien Colours #1
+    - [ ] Exercise 5-4: Alien Colours #2
+    - [ ] Exercise 5-5: Alien Colours #3
+    - [ ] Exercise 5-6: Stages of Life
+    - [ ] Exercise 5-7: Favourite Fruit
+    - [ ] Exercise 5-8: Hello Admin
+    - [ ] Exercise 5-9: No Users
+    - [ ] Exercise 5-10: Checking Usernames
+    - [ ] Exercise 5-11: Ordinal Numbers
+    - [ ] Exercise 5-12: Styling if Statements
+    - [ ] Exercise 5-13: Your Ideas
+- [ ] Chapter 6 - Dictionaries
+    - [ ] Exercise 6-1: Person
+    - [ ] Exercise 6-2: Favourite Numbers
+    - [ ] Exercise 6-3: Glossary
+    - [ ] Exercise 6-4: Glossary 2
+    - [ ] Exercise 6-5: Rivers
+    - [ ] Exercise 6-6: Polling
+    - [ ] Exercise 6-7: People
+    - [ ] Exercise 6-8: Pets
+    - [ ] Exercise 6-9: Favourite Places
+    - [ ] Exercise 6-10: Favourite Numbers
+    - [ ] Exercise 6-11: Cities
+    - [ ] Exercise 6-12: Extensions
+- [ ] Chapter 7 - User Input and while Loops
+    - [ ] Exercise 7-1: Rental Car
+    - [ ] Exercise 7-2: Restaurant Seating
+    - [ ] Exercise 7-3: Multiples of Ten
+    - [ ] Exercise 7-4: Pizza Toppings
+    - [ ] Exercise 7-5: Movie Tickets
+    - [ ] Exercise 7-6: Three Exits
+    - [ ] Exercise 7-7: Infinity
+    - [ ] Exercise 7-8: Deli
+    - [ ] Exercise 7-9: No Pastrami
+    - [ ] Exercise 7-10: Dream Vacation
+- [ ] Chapter 8 - Functions
+    - [ ] Exercise 8-1: Message
+    - [ ] Exercise 8-2: Favourite Book
+    - [ ] Exercise 8-3: T-Shirt
+    - [ ] Exercise 8-4: Large Shirts
+    - [ ] Exercise 8-5: Cities
+    - [ ] Exercise 8-6: City Names
+    - [ ] Exercise 8-7: Album
+    - [ ] Exercise 8-8: User Albums
+    - [ ] Exercise 8-9: Messages
+    - [ ] Exercise 8-10: Sending Messages
+    - [ ] Exercise 8-11: Archived Messages
+    - [ ] Exercise 8-12: Sandwiches
+    - [ ] Exercise 8-13: User Profile
+    - [ ] Exercise 8-14: Cars
+    - [ ] Exercise 8-15: Printing Models
+    - [ ] Exercise 8-16: Imports
+    - [ ] Exercise 8-17: Styling Functions
+- [ ] Chapter 9 - Classes
+    - [ ] Exercise 9-1: Restaurant
+    - [ ] Exercise 9-2: Three Restaurants
+    - [ ] Exercise 9-3: Users
+    - [ ] Exercise 9-4: Number Served
+    - [ ] Exercise 9-5: Login Attempts
+    - [ ] Exercise 9-6: Ice Cream Stand
+    - [ ] Exercise 9-7: Admin
+    - [ ] Exercise 9-8: Privileges
+    - [ ] Exercise 9-9: Battery Upgrade
+    - [ ] Exercise 9-10: Imported Restaurant
+    - [ ] Exercise 9-11: Imported Admin
+    - [ ] Exercise 9-12: Multiple Modules
+    - [ ] Exercise 9-13: Dice
+    - [ ] Exercise 9-14: Lottery
+    - [ ] Exercise 9-15: Lottery Analysis
+    - [ ] Exercise 9-16: Python Module of the Week
+- [ ] Chapter 10 - Files and Exceptions
+    - [ ] Exercise 10-1: Learning Python
+    - [ ] Exercise 10-2: Learning C
+    - [ ] Exercise 10-3: Simpler Code
+    - [ ] Exercise 10-4: Guest
+    - [ ] Exercise 10-5: Guest Book
+    - [ ] Exercise 10-6: Addition
+    - [ ] Exercise 10-7: Addition Calculator
+    - [ ] Exercise 10-8: Cats and Dogs
+    - [ ] Exercise 10-9: Silent Cats and Dogs
+    - [ ] Exercise 10-10: Common Words
+    - [ ] Exercise 10-11: Favourite Number
+    - [ ] Exercise 10-12: Favourite Number Remembered
+    - [ ] Exercise 10-13: User Dictionary
+    - [ ] Exercise 10-14: Verify User
+- [ ] Chapter 11 - Testing Your Code
+    - [ ] Exercise 11-1: City, Country
+    - [ ] Exercise 11-2: Population
+    - [ ] Exercise 11-3: Employee
+- [ ] Chapter 12 - A Ship That Fires Bullets
+    - [ ] Exercise 12-1: Blue Sky
+    - [ ] Exercise 12-2: Game Character
+    - [ ] Exercise 12-3: Pygame Documentation
+    - [ ] Exercise 12-4: Rocket
+    - [ ] Exercise 12-5: Keys
+    - [ ] Exercise 12-6: Sideways Shooter
+- [ ] Chapter 13 - Aliens!
+    - [ ] Exercise 13-1: Stars
+    - [ ] Exercise 13-2: Better Stars
+    - [ ] Exercise 13-3: Raindrops
+    - [ ] Exercise 13-4: Steady Rain
+    - [ ] Exercise 13-5: Sideways Shooter Part 2
+    - [ ] Exercise 13-6: Game Over
+- [ ] Chapter 14 - Scoring
+    - [ ] Exercise 14-1: Press P to Play
+    - [ ] Exercise 14-2: Target Practice
+    - [ ] Exercise 14-3: Challenging Target Practice
+    - [ ] Exercise 14-4: Difficulty Levels
+    - [ ] Exercise 14-5: All-Time High Score
+    - [ ] Exercise 14-6: Refactoring
+    - [ ] Exercise 14-7: Expanding the Game
+    - [ ] Exercise 14-8: Sideways Shooter, Final Version
+- [ ] Chapter 15 - Generating Data
+    - [ ] Exercise 15-1: Cubes
+    - [ ] Exercise 15-2: Coloured Cubes
+    - [ ] Exercise 15-3: Molecular Motion
+    - [ ] Exercise 15-4: Modified Random Walks
+    - [ ] Exercise 15-5: Refactoring
+    - [ ] Exercise 15-6: Two D8s
+    - [ ] Exercise 15-7: Three Dice
+    - [ ] Exercise 15-8: Multiplication
+    - [ ] Exercise 15-9: Die Comprehensions
+    - [ ] Exercise 15-10: Practicing with Both Libraries
+- [ ] Chapter 16 - Downloading Data
+    - [ ] Exercise 16-1: Sitka Rainfall
+    - [ ] Exercise 16-2: Sitka-Death Valley Comparison
+    - [ ] Exercise 16-3: San Francisco
+    - [ ] Exercise 16-4: Automatic Indexes
+    - [ ] Exercise 16-5: Explore
+    - [ ] Exercise 16-6: Refactoring
+    - [ ] Exercise 16-7: Automated Title
+    - [ ] Exercise 16-8: Recent Earthquakes
+    - [ ] Exercise 16-9: World Fires
+- [ ] Chapter 17 - Working with APIs
+    - [ ] Exercise 17-1: Other Languages
+    - [ ] Exercise 17-2: Active Discussions
+    - [ ] Exercise 17-3: Testing python_repos.py
+    - [ ] Exercise 17-4: Further Exploration
+- [ ] Chapter 18 - Getting Started with Django
+    - [ ] Exercise 18-1: New Projects
+    - [ ] Exercise 18-2: Short Entries
+    - [ ] Exercise 18-3: The Django API
+    - [ ] Exercise 18-4: Pizzeria
+    - [ ] Exercise 18-5: Meal Planner
+    - [ ] Exercise 18-6: Pizzeria Home Page
+    - [ ] Exercise 18-7: Template Documentation
+    - [ ] Exercise 18-8: Pizzeria Pages
+- [ ] Chapter 19 - User Accounts
+    - [ ] Exercise 19-1: Blog
+    - [ ] Exercise 19-2: Blog Accounts
+    - [ ] Exercise 19-3: Refactoring
+    - [ ] Exercise 19-4: Protecting new_entry
+    - [ ] Exercise 19-5: Protected Blog
+- [ ] Chapter 20 - Styling and Deploying an App
+    - [ ] Exercise 20-1: Other Forms
+    - [ ] Exercise 20-2: Stylish Blog
+    - [ ] Exercise 20-3: Live Blog
+    - [ ] Exercise 20-4: Extended Learning Log
