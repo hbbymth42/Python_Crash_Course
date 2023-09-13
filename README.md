@@ -16,18 +16,17 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
 	- [x] Exercise 2-9: Number Eight
 	- [x] Exercise 2-10: Favourite Number
 	- [x] Exercise 2-11: Adding Comments
-- [ ] Chapter 3 - Introducing Lists
-    - [ ] Exercise 3-1: Names
-    - [ ] Exercise 3-2: Greetings
-    - [ ] Exercise 3-3: Your Own List
-    - [ ] Exercise 3-4: Guest List
-    - [ ] Exercise 3-5: Changing Guest List
-    - [ ] Exercise 3-6: More Guests
-    - [ ] Exercise 3-7: Shrinking Guest List
-    - [ ] Exercise 3-8: Seeing the World
-    - [ ] Exercise 3-9: Dinner Guests
-    - [ ] Exercise 3-10: Every Function
-    - [ ] Exercise 3-11: Intentional Error
+- [x] Chapter 3 - Introducing Lists
+    - [x] Exercise 3-1: Names
+    - [x] Exercise 3-2: Greetings
+    - [x] Exercise 3-3: Your Own List
+    - [x] Exercise 3-4: Guest List
+    - [x] Exercise 3-5: Changing Guest List
+    - [x] Exercise 3-6: More Guests
+    - [x] Exercise 3-7: Shrinking Guest List
+    - [x] Exercise 3-8: Seeing the World
+    - [x] Exercise 3-9: Dinner Guests
+    - [x] Exercise 3-10: Every Function
 - [ ] Chapter 4 - Working with Lists
     - [ ] Exercise 4-1: Pizzas
     - [ ] Exercise 4-2: Animals
