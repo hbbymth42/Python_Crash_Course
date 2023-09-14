@@ -27,22 +27,20 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 3-8: Seeing the World
     - [x] Exercise 3-9: Dinner Guests
     - [x] Exercise 3-10: Every Function
-- [ ] Chapter 4 - Working with Lists
-    - [ ] Exercise 4-1: Pizzas
-    - [ ] Exercise 4-2: Animals
-    - [ ] Exercise 4-3: Counting to Twenty
-    - [ ] Exercise 4-4: One Million
-    - [ ] Exercise 4-5: Summing a Million
-    - [ ] Exercise 4-6: Odd Numbers
-    - [ ] Exercise 4-7: Threes
-    - [ ] Exercise 4-8: Cubes
-    - [ ] Exercise 4-9: Cube Comprehension
-    - [ ] Exercise 4-10: Slices
-    - [ ] Exercise 4-11: My Pizzas, Your Pizzas
-    - [ ] Exercise 4-12: More Loops
-    - [ ] Exercise 4-13: Buffet
-    - [ ] Exercise 4-14: PEP 8
-    - [ ] Exercise 4-15: Code Review
+- [x] Chapter 4 - Working with Lists
+    - [x] Exercise 4-1: Pizzas
+    - [x] Exercise 4-2: Animals
+    - [x] Exercise 4-3: Counting to Twenty
+    - [x] Exercise 4-4: One Million
+    - [x] Exercise 4-5: Summing a Million
+    - [x] Exercise 4-6: Odd Numbers
+    - [x] Exercise 4-7: Threes
+    - [x] Exercise 4-8: Cubes
+    - [x] Exercise 4-9: Cube Comprehension
+    - [x] Exercise 4-10: Slices
+    - [x] Exercise 4-11: My Pizzas, Your Pizzas
+    - [x] Exercise 4-12: More Loops
+    - [x] Exercise 4-13: Buffet
 - [ ] Chapter 5 - if Statements
     - [ ] Exercise 5-1: Conditional Tests
     - [ ] Exercise 5-2: More Conditional Tests
