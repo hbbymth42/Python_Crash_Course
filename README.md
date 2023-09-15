@@ -41,20 +41,19 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 4-11: My Pizzas, Your Pizzas
     - [x] Exercise 4-12: More Loops
     - [x] Exercise 4-13: Buffet
-- [ ] Chapter 5 - if Statements
-    - [ ] Exercise 5-1: Conditional Tests
-    - [ ] Exercise 5-2: More Conditional Tests
-    - [ ] Exercise 5-3: Alien Colours #1
-    - [ ] Exercise 5-4: Alien Colours #2
-    - [ ] Exercise 5-5: Alien Colours #3
-    - [ ] Exercise 5-6: Stages of Life
-    - [ ] Exercise 5-7: Favourite Fruit
-    - [ ] Exercise 5-8: Hello Admin
-    - [ ] Exercise 5-9: No Users
-    - [ ] Exercise 5-10: Checking Usernames
-    - [ ] Exercise 5-11: Ordinal Numbers
-    - [ ] Exercise 5-12: Styling if Statements
-    - [ ] Exercise 5-13: Your Ideas
+- [x] Chapter 5 - if Statements
+    - [x] Exercise 5-1: Conditional Tests
+    - [x] Exercise 5-2: More Conditional Tests
+    - [x] Exercise 5-3: Alien Colours #1
+    - [x] Exercise 5-4: Alien Colours #2
+    - [x] Exercise 5-5: Alien Colours #3
+    - [x] Exercise 5-6: Stages of Life
+    - [x] Exercise 5-7: Favourite Fruit
+    - [x] Exercise 5-8: Hello Admin
+    - [x] Exercise 5-9: No Users
+    - [x] Exercise 5-10: Checking Usernames
+    - [x] Exercise 5-11: Ordinal Numbers
+    - [x] Exercise 5-12: Styling `if` Statements
 - [ ] Chapter 6 - Dictionaries
     - [ ] Exercise 6-1: Person
     - [ ] Exercise 6-2: Favourite Numbers
