@@ -54,19 +54,19 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 5-10: Checking Usernames
     - [x] Exercise 5-11: Ordinal Numbers
     - [x] Exercise 5-12: Styling `if` Statements
-- [ ] Chapter 6 - Dictionaries
-    - [ ] Exercise 6-1: Person
-    - [ ] Exercise 6-2: Favourite Numbers
-    - [ ] Exercise 6-3: Glossary
-    - [ ] Exercise 6-4: Glossary 2
-    - [ ] Exercise 6-5: Rivers
-    - [ ] Exercise 6-6: Polling
-    - [ ] Exercise 6-7: People
-    - [ ] Exercise 6-8: Pets
-    - [ ] Exercise 6-9: Favourite Places
-    - [ ] Exercise 6-10: Favourite Numbers
-    - [ ] Exercise 6-11: Cities
-    - [ ] Exercise 6-12: Extensions
+- [x] Chapter 6 - Dictionaries
+    - [x] Exercise 6-1: Person
+    - [x] Exercise 6-2: Favourite Numbers
+    - [x] Exercise 6-3: Glossary
+    - [x] Exercise 6-4: Glossary 2
+    - [x] Exercise 6-5: Rivers
+    - [x] Exercise 6-6: Polling
+    - [x] Exercise 6-7: People
+    - [x] Exercise 6-8: Pets
+    - [x] Exercise 6-9: Favourite Places
+    - [x] Exercise 6-10: Favourite Numbers
+    - [x] Exercise 6-11: Cities
+    - [x] Exercise 6-12: Extensions
 - [ ] Chapter 7 - User Input and while Loops
     - [ ] Exercise 7-1: Rental Car
     - [ ] Exercise 7-2: Restaurant Seating
