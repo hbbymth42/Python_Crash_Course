@@ -67,17 +67,17 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 6-10: Favourite Numbers
     - [x] Exercise 6-11: Cities
     - [x] Exercise 6-12: Extensions
-- [ ] Chapter 7 - User Input and while Loops
-    - [ ] Exercise 7-1: Rental Car
-    - [ ] Exercise 7-2: Restaurant Seating
-    - [ ] Exercise 7-3: Multiples of Ten
-    - [ ] Exercise 7-4: Pizza Toppings
-    - [ ] Exercise 7-5: Movie Tickets
-    - [ ] Exercise 7-6: Three Exits
-    - [ ] Exercise 7-7: Infinity
-    - [ ] Exercise 7-8: Deli
-    - [ ] Exercise 7-9: No Pastrami
-    - [ ] Exercise 7-10: Dream Vacation
+- [x] Chapter 7 - User Input and while Loops
+    - [x] Exercise 7-1: Rental Car
+    - [x] Exercise 7-2: Restaurant Seating
+    - [x] Exercise 7-3: Multiples of Ten
+    - [x] Exercise 7-4: Pizza Toppings
+    - [x] Exercise 7-5: Movie Tickets
+    - [x] Exercise 7-6: Three Exits
+    - [x] Exercise 7-7: Infinity
+    - [x] Exercise 7-8: Deli
+    - [x] Exercise 7-9: No Pastrami
+    - [x] Exercise 7-10: Dream Vacation
 - [ ] Chapter 8 - Functions
     - [ ] Exercise 8-1: Message
     - [ ] Exercise 8-2: Favourite Book
