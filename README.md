@@ -78,24 +78,24 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 7-8: Deli
     - [x] Exercise 7-9: No Pastrami
     - [x] Exercise 7-10: Dream Vacation
-- [ ] Chapter 8 - Functions
-    - [ ] Exercise 8-1: Message
-    - [ ] Exercise 8-2: Favourite Book
-    - [ ] Exercise 8-3: T-Shirt
-    - [ ] Exercise 8-4: Large Shirts
-    - [ ] Exercise 8-5: Cities
-    - [ ] Exercise 8-6: City Names
-    - [ ] Exercise 8-7: Album
-    - [ ] Exercise 8-8: User Albums
-    - [ ] Exercise 8-9: Messages
-    - [ ] Exercise 8-10: Sending Messages
-    - [ ] Exercise 8-11: Archived Messages
-    - [ ] Exercise 8-12: Sandwiches
-    - [ ] Exercise 8-13: User Profile
-    - [ ] Exercise 8-14: Cars
-    - [ ] Exercise 8-15: Printing Models
-    - [ ] Exercise 8-16: Imports
-    - [ ] Exercise 8-17: Styling Functions
+- [x] Chapter 8 - Functions
+    - [x] Exercise 8-1: Message
+    - [x] Exercise 8-2: Favourite Book
+    - [x] Exercise 8-3: T-Shirt
+    - [x] Exercise 8-4: Large Shirts
+    - [x] Exercise 8-5: Cities
+    - [x] Exercise 8-6: City Names
+    - [x] Exercise 8-7: Album
+    - [x] Exercise 8-8: User Albums
+    - [x] Exercise 8-9: Messages
+    - [x] Exercise 8-10: Sending Messages
+    - [x] Exercise 8-11: Archived Messages
+    - [x] Exercise 8-12: Sandwiches
+    - [x] Exercise 8-13: User Profile
+    - [x] Exercise 8-14: Cars
+    - [x] Exercise 8-15: Printing Models
+    - [x] Exercise 8-16: Imports
+    - [x] Exercise 8-17: Styling Functions
 - [ ] Chapter 9 - Classes
     - [ ] Exercise 9-1: Restaurant
     - [ ] Exercise 9-2: Three Restaurants
