@@ -96,23 +96,22 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 8-15: Printing Models
     - [x] Exercise 8-16: Imports
     - [x] Exercise 8-17: Styling Functions
-- [ ] Chapter 9 - Classes
-    - [ ] Exercise 9-1: Restaurant
-    - [ ] Exercise 9-2: Three Restaurants
-    - [ ] Exercise 9-3: Users
-    - [ ] Exercise 9-4: Number Served
-    - [ ] Exercise 9-5: Login Attempts
-    - [ ] Exercise 9-6: Ice Cream Stand
-    - [ ] Exercise 9-7: Admin
-    - [ ] Exercise 9-8: Privileges
-    - [ ] Exercise 9-9: Battery Upgrade
-    - [ ] Exercise 9-10: Imported Restaurant
-    - [ ] Exercise 9-11: Imported Admin
-    - [ ] Exercise 9-12: Multiple Modules
-    - [ ] Exercise 9-13: Dice
-    - [ ] Exercise 9-14: Lottery
-    - [ ] Exercise 9-15: Lottery Analysis
-    - [ ] Exercise 9-16: Python Module of the Week
+- [x] Chapter 9 - Classes
+    - [x] Exercise 9-1: Restaurant
+    - [x] Exercise 9-2: Three Restaurants
+    - [x] Exercise 9-3: Users
+    - [x] Exercise 9-4: Number Served
+    - [x] Exercise 9-5: Login Attempts
+    - [x] Exercise 9-6: Ice Cream Stand
+    - [x] Exercise 9-7: Admin
+    - [x] Exercise 9-8: Privileges
+    - [x] Exercise 9-9: Battery Upgrade
+    - [x] Exercise 9-10: Imported Restaurant
+    - [x] Exercise 9-11: Imported Admin
+    - [x] Exercise 9-12: Multiple Modules
+    - [x] Exercise 9-13: Dice
+    - [x] Exercise 9-14: Lottery
+    - [x] Exercise 9-15: Lottery Analysis
 - [ ] Chapter 10 - Files and Exceptions
     - [ ] Exercise 10-1: Learning Python
     - [ ] Exercise 10-2: Learning C
