@@ -127,10 +127,10 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 10-12: Favourite Number Remembered
     - [x] Exercise 10-13: User Dictionary
     - [x] Exercise 10-14: Verify User
-- [ ] Chapter 11 - Testing Your Code
-    - [ ] Exercise 11-1: City, Country
-    - [ ] Exercise 11-2: Population
-    - [ ] Exercise 11-3: Employee
+- [x] Chapter 11 - Testing Your Code
+    - [x] Exercise 11-1: City, Country
+    - [x] Exercise 11-2: Population
+    - [x] Exercise 11-3: Employee
 - [ ] Chapter 12 - A Ship That Fires Bullets
     - [ ] Exercise 12-1: Blue Sky
     - [ ] Exercise 12-2: Game Character
