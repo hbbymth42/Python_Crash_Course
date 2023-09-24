@@ -112,21 +112,21 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 9-13: Dice
     - [x] Exercise 9-14: Lottery
     - [x] Exercise 9-15: Lottery Analysis
-- [ ] Chapter 10 - Files and Exceptions
-    - [ ] Exercise 10-1: Learning Python
-    - [ ] Exercise 10-2: Learning C
-    - [ ] Exercise 10-3: Simpler Code
-    - [ ] Exercise 10-4: Guest
-    - [ ] Exercise 10-5: Guest Book
-    - [ ] Exercise 10-6: Addition
-    - [ ] Exercise 10-7: Addition Calculator
-    - [ ] Exercise 10-8: Cats and Dogs
-    - [ ] Exercise 10-9: Silent Cats and Dogs
-    - [ ] Exercise 10-10: Common Words
-    - [ ] Exercise 10-11: Favourite Number
-    - [ ] Exercise 10-12: Favourite Number Remembered
-    - [ ] Exercise 10-13: User Dictionary
-    - [ ] Exercise 10-14: Verify User
+- [x] Chapter 10 - Files and Exceptions
+    - [x] Exercise 10-1: Learning Python
+    - [x] Exercise 10-2: Learning C
+    - [x] Exercise 10-3: Simpler Code
+    - [x] Exercise 10-4: Guest
+    - [x] Exercise 10-5: Guest Book
+    - [x] Exercise 10-6: Addition
+    - [x] Exercise 10-7: Addition Calculator
+    - [x] Exercise 10-8: Cats and Dogs
+    - [x] Exercise 10-9: Silent Cats and Dogs
+    - [x] Exercise 10-10: Common Words
+    - [x] Exercise 10-11: Favourite Number
+    - [x] Exercise 10-12: Favourite Number Remembered
+    - [x] Exercise 10-13: User Dictionary
+    - [x] Exercise 10-14: Verify User
 - [ ] Chapter 11 - Testing Your Code
     - [ ] Exercise 11-1: City, Country
     - [ ] Exercise 11-2: Population
