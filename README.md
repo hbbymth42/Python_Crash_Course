@@ -132,7 +132,7 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 11-2: Population
     - [x] Exercise 11-3: Employee
 - [ ] Chapter 12 - A Ship That Fires Bullets
-    - [ ] Exercise 12-1: Blue Sky
+    - [x] Exercise 12-1: Blue Sky
     - [ ] Exercise 12-2: Game Character
     - [ ] Exercise 12-3: Pygame Documentation
     - [ ] Exercise 12-4: Rocket
