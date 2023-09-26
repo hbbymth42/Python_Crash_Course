@@ -134,8 +134,7 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
 - [ ] Chapter 12 - A Ship That Fires Bullets
     - [x] Exercise 12-1: Blue Sky
     - [x] Exercise 12-2: Game Character (Image Attribution: https://opengameart.org/content/small-humanoid-units)
-    - [ ] Exercise 12-3: Pygame Documentation
-    - [ ] Exercise 12-4: Rocket
+    - [x] Exercise 12-4: Rocket
     - [ ] Exercise 12-5: Keys
     - [ ] Exercise 12-6: Sideways Shooter
 - [ ] Chapter 13 - Aliens!
