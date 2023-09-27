@@ -8,5 +8,8 @@ class Settings:
         self.screen_height = 800
         self.bg_colour = (0, 0, 0)
 
+        # Raindrop settings
+        self.raindrops_drop_speed = 0.5
+
         # Rocket settings
         self.rocket_speed = 1.5
