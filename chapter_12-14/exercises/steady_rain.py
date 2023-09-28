@@ -32,16 +32,16 @@ class Raindrops:
                 sys.exit()
     
     def _update_raindrops(self):
-        self._move_raindrops_down()
+        self.raindrops.update()
 
+        make_new_raindrops = False
         for raindrop in self.raindrops.copy():
-            if raindrop.rect.top >= self.settings.screen_height:
+            if raindrop.check_disappeared():
                 self.raindrops.remove(raindrop)
-            
+                make_new_raindrops = True
 
-    def _move_raindrops_down(self):
-        for raindrop in self.raindrops.sprites():
-            raindrop.rect.y += self.settings.raindrop_drop_speed
+        if make_new_raindrops:
+            self._create_new_row()
 
     def _create_raindrops(self):
         raindrop = Raindrop(self)
@@ -54,14 +54,24 @@ class Raindrops:
                 current_x += 1 * raindrop_width
             
             current_x = raindrop_width
-            current_y += 3 * raindrop_height
+            current_y += 1 * raindrop_height
     
     def _create_raindrop(self, x_position, y_position):
         new_raindrop  = Raindrop(self)
-        new_raindrop.x = x_position
+        new_raindrop.y = y_position
         new_raindrop.rect.x = x_position
         new_raindrop.rect.y = y_position
         self.raindrops.add(new_raindrop)
+    
+    def _create_new_row(self):
+        raindrop = Raindrop(self)
+        raindrop_width, raindrop_height = raindrop.rect.size
+
+        current_x = raindrop_width
+        current_y = -1 * raindrop_height
+        while current_x < (self.settings.screen_width - 1 * raindrop_width):
+            self._create_raindrop(current_x, current_y)
+            current_x += 1 * raindrop_width
     
     def _update_screen(self):
         self.screen.fill(self.settings.bg_colour)
