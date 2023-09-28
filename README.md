@@ -142,7 +142,7 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 13-2: Better Stars
     - [x] Exercise 13-3: Raindrops (Image Attribution: https://opengameart.org/content/rain-particle-animated)
     - [x] Exercise 13-4: Steady Rain
-    - [ ] Exercise 13-5: Sideways Shooter Part 2
+    - [x] Exercise 13-5: Sideways Shooter Part 2 (Image Attribution: https://opengameart.org/content/top-down-shooter-art)
     - [ ] Exercise 13-6: Game Over
 - [ ] Chapter 14 - Scoring
     - [ ] Exercise 14-1: Press P to Play
