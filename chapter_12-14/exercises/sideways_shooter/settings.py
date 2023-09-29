@@ -9,6 +9,7 @@ class Settings:
 
         # Ship settings
         self.ship_speed = 2.0
+        self.ship_limit = 4
 
         # Bullet settings
         self.bullet_speed = 3.0

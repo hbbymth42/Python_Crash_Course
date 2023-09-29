@@ -137,13 +137,13 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 12-4: Rocket (Image Attribution: https://opengameart.org/content/rocket)
     - [x] Exercise 12-5: Keys
     - [x] Exercise 12-6: Sideways Shooter (Image Attribution: https://opengameart.org/content/spaceship-8)
-- [ ] Chapter 13 - Aliens!
+- [x] Chapter 13 - Aliens!
     - [x] Exercise 13-1: Stars (Image Attribution: https://opengameart.org/content/simple-shining-star)
     - [x] Exercise 13-2: Better Stars
     - [x] Exercise 13-3: Raindrops (Image Attribution: https://opengameart.org/content/rain-particle-animated)
     - [x] Exercise 13-4: Steady Rain
     - [x] Exercise 13-5: Sideways Shooter Part 2 (Image Attribution: https://opengameart.org/content/top-down-shooter-art)
-    - [ ] Exercise 13-6: Game Over
+    - [x] Exercise 13-6: Game Over
 - [ ] Chapter 14 - Scoring
     - [ ] Exercise 14-1: Press P to Play
     - [ ] Exercise 14-2: Target Practice
