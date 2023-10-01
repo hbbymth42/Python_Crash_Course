@@ -146,7 +146,7 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 13-6: Game Over
 - [ ] Chapter 14 - Scoring
     - [x] Exercise 14-1: Press P to Play
-    - [ ] Exercise 14-2: Target Practice
+    - [x] Exercise 14-2: Target Practice
     - [ ] Exercise 14-3: Challenging Target Practice
     - [ ] Exercise 14-4: Difficulty Levels
     - [ ] Exercise 14-5: All-Time High Score
