@@ -145,7 +145,7 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 13-5: Sideways Shooter Part 2 (Image Attribution: https://opengameart.org/content/top-down-shooter-art)
     - [x] Exercise 13-6: Game Over
 - [ ] Chapter 14 - Scoring
-    - [ ] Exercise 14-1: Press P to Play
+    - [x] Exercise 14-1: Press P to Play
     - [ ] Exercise 14-2: Target Practice
     - [ ] Exercise 14-3: Challenging Target Practice
     - [ ] Exercise 14-4: Difficulty Levels
