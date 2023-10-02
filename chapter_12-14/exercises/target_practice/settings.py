@@ -7,7 +7,6 @@ class Settings:
         self.bg_colour = (0, 0, 0)
 
         # Ship settings
-        self.ship_speed = 2.0
         self.ship_limit = 2
 
         # Bullet settings
@@ -18,6 +17,19 @@ class Settings:
         self.bullets_allowed = 4
 
         # Rectangle settings
-        self.rect_speed = 1.0
-        self.rect_direction = 1
         self.rect_colour = (200, 0, 0)
+
+        self.speedup_scale = 1.2
+        
+        self.initialise_dynamic_settings()
+    
+    def initialise_dynamic_settings(self):
+        self.ship_speed = 2.0
+        self.rect_speed = 1.0
+        
+        self.rect_direction = 1
+    
+    def increase_speed(self):
+        self.ship_speed *= self.speedup_scale
+        self.rect_speed *= self.speedup_scale
+        self.bullet_speed *= self.speedup_scale

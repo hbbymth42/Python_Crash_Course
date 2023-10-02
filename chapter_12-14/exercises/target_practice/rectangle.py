@@ -10,7 +10,7 @@ class Rectangle(Sprite):
         self.screen_rect = tp_game.screen.get_rect()
         self.colour = self.settings.rect_colour
 
-        self.width, self.height = 10, 20
+        self.width, self.height = 300, 400
 
         self.rect = pygame.Rect(0, 0, self.width, self.height)
 

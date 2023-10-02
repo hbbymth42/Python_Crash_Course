@@ -59,6 +59,7 @@ class TargetPractice:
                 self._check_play_button(mouse_pos)
     
     def _start_game(self):
+        self.settings.initialise_dynamic_settings()
         self.stats.reset_stats()
         self.game_active = True
 
@@ -101,8 +102,8 @@ class TargetPractice:
                 self._bullet_missed()
                 self.bullets.remove(bullet)
         
-        bullets_hit_list = pygame.sprite.spritecollide(self.rectangle,
-                                                       self.bullets, True)
+        if pygame.sprite.spritecollide(self.rectangle, self.bullets, True):
+            self.settings.increase_speed()
     
     def _bullet_missed(self):
         if self.stats.ships_left > 0:
