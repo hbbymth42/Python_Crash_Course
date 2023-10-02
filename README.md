@@ -148,7 +148,7 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 14-1: Press P to Play
     - [x] Exercise 14-2: Target Practice
     - [x] Exercise 14-3: Challenging Target Practice
-    - [ ] Exercise 14-4: Difficulty Levels
+    - [x] Exercise 14-4: Difficulty Levels
     - [ ] Exercise 14-5: All-Time High Score
     - [ ] Exercise 14-6: Refactoring
     - [ ] Exercise 14-7: Expanding the Game
