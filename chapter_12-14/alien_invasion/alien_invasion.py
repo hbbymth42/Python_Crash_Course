@@ -38,6 +38,11 @@ class AlienInvasion:
         # Make the Play button.
         self.play_button = Button(self, "Play")
 
+        # Make Difficulty Buttons.
+        self.easy_button = Button(self, "Easy")
+        self.normal_button = Button(self, "Normal")
+        self.hard_button = Button(self, "Hard")
+
     def run_game(self):
         """Start the main loop for the game."""
         while True:
@@ -62,10 +67,18 @@ class AlienInvasion:
                     self._check_keyup_events(event)
                 elif event.type == pygame.MOUSEBUTTONDOWN:
                     mouse_pos = pygame.mouse.get_pos()
+                    self._check_difficulty(mouse_pos)
                     self._check_play_button(mouse_pos)
 
+    def _check_difficulty(self, mouse_pos):
+        if self.hard_button.rect.collidepoint(mouse_pos):
+            self.settings.initialise_dynamic_settings(2)
+        elif self.normal_button.rect.collidepoint(mouse_pos):
+            self.settings.initialise_dynamic_settings(1)
+        elif self.easy_button.rect.collidepoint(mouse_pos):
+            self.settings.initialise_dynamic_settings(0.75)
+
     def _start_game(self):
-        self.settings.initialise_dynamic_settings()
         self.stats.reset_stats()
         self.game_active = True
 
@@ -229,6 +242,9 @@ class AlienInvasion:
         # Draw the play button if the game is inactive.
         if not self.game_active:
             self.play_button.draw_button()
+            self.easy_button.draw_button()
+            self.normal_button.draw_button()
+            self.hard_button.draw_button()
 
         pygame.display.flip()
 

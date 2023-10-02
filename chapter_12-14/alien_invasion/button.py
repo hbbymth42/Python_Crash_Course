@@ -16,7 +16,15 @@ class Button:
 
         # Build the button's rect object and center it.
         self.rect = pygame.Rect(0, 0, self.width, self.height)
-        self.rect.center = self.screen_rect.center
+
+        if msg == 'Play':
+            self.rect.center = self.screen_rect.center
+        elif msg == 'Easy':
+            self.rect.bottomleft = self.screen_rect.bottomleft
+        elif msg == 'Normal':
+            self.rect.midbottom = self.screen_rect.midbottom
+        elif msg == 'Hard':
+            self.rect.bottomright = self.screen_rect.bottomright
 
         # The button message needs to be prepped only once
         self._prep_msg(msg)
