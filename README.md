@@ -156,7 +156,7 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
             - Alien Explosion: https://pixabay.com/sound-effects/explosionwithphaser-107619/
             - Ship Explosion: https://pixabay.com/sound-effects/explosion-6055/
             - Ship Laser: https://pixabay.com/sound-effects/shoot02wav-14562/
-    - [ ] Exercise 14-8: Sideways Shooter, Final Version
+    - [x] Exercise 14-8: Sideways Shooter, Final Version
 - [ ] Chapter 15 - Generating Data
     - [ ] Exercise 15-1: Cubes
     - [ ] Exercise 15-2: Coloured Cubes
