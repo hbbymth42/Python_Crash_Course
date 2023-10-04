@@ -151,7 +151,11 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 14-4: Difficulty Levels
     - [x] Exercise 14-5: All-Time High Score
     - [x] Exercise 14-6: Refactoring
-    - [ ] Exercise 14-7: Expanding the Game
+    - [x] Exercise 14-7: Expanding the Game
+        - Sound Attribution:
+            - Alien Explosion: https://pixabay.com/sound-effects/explosionwithphaser-107619/
+            - Ship Explosion: https://pixabay.com/sound-effects/explosion-6055/
+            - Ship Laser: https://pixabay.com/sound-effects/shoot02wav-14562/
     - [ ] Exercise 14-8: Sideways Shooter, Final Version
 - [ ] Chapter 15 - Generating Data
     - [ ] Exercise 15-1: Cubes

@@ -45,6 +45,12 @@ class AlienInvasion:
         self.normal_button = Button(self, "Normal")
         self.hard_button = Button(self, "Hard")
 
+        # Make Sound Effects.
+        pygame.mixer.init()
+        self.ship_laser_sfx = pygame.mixer.Sound('sfx/laser_sound.wav')
+        self.alien_explosion_sfx = pygame.mixer.Sound('sfx/alien_explosion.wav')
+        self.ship_explosion_sfx = pygame.mixer.Sound('sfx/ship_explosion.wav')
+
     def run_game(self):
         """Start the main loop for the game."""
         while True:
@@ -127,6 +133,7 @@ class AlienInvasion:
         """Create a new bullet and add it to the bullets group."""
         if len(self.bullets) < self.settings.bullets_allowed:
             new_bullet = Bullet(self)
+            pygame.mixer.Sound.play(self.ship_laser_sfx)
             self.bullets.add(new_bullet)
     
     def _update_bullets(self):
@@ -148,6 +155,7 @@ class AlienInvasion:
                                                 True, True)
         
         if collisions:
+            pygame.mixer.Sound.play(self.alien_explosion_sfx)
             for aliens in collisions.values():
                 self.stats.score += self.settings.alien_points * len(aliens)
             self.sb.prep_score()
@@ -171,6 +179,7 @@ class AlienInvasion:
         if self.stats.ships_left > 0:
             # Decrement ships left.
             self.stats.ships_left -= 1
+            pygame.mixer.Sound.play(self.ship_explosion_sfx)
             self.sb.prep_ships()
 
             # Get rid of any remaining bullets and aliens.
