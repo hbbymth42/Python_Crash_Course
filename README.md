@@ -149,7 +149,7 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 14-2: Target Practice
     - [x] Exercise 14-3: Challenging Target Practice
     - [x] Exercise 14-4: Difficulty Levels
-    - [ ] Exercise 14-5: All-Time High Score
+    - [x] Exercise 14-5: All-Time High Score
     - [ ] Exercise 14-6: Refactoring
     - [ ] Exercise 14-7: Expanding the Game
     - [ ] Exercise 14-8: Sideways Shooter, Final Version

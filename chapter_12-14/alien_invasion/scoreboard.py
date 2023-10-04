@@ -1,8 +1,10 @@
 import pygame.font
 from pygame.sprite import Group
+from pathlib import Path
 
 from ship import Ship
 
+path = Path('high_score.txt')
 class Scoreboard:
     """A class to report scoring information."""
 
@@ -50,7 +52,11 @@ class Scoreboard:
         if self.stats.score > self.stats.high_score:
             self.stats.high_score = self.stats.score
             self.prep_high_score()
-    
+            self.save_high_score()
+
+    def save_high_score(self, path=path):
+        path.write_text(str(self.stats.high_score))
+
     def prep_high_score(self):
         """Turn the high score into a rendered image."""
         high_score = round(self.stats.high_score, -1)
