@@ -160,9 +160,9 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
 - [ ] Chapter 15 - Generating Data
     - [x] Exercise 15-1: Cubes
     - [x] Exercise 15-2: Coloured Cubes
-    - [ ] Exercise 15-3: Molecular Motion
-    - [ ] Exercise 15-4: Modified Random Walks
-    - [ ] Exercise 15-5: Refactoring
+    - [x] Exercise 15-3: Molecular Motion
+    - [x] Exercise 15-4: Modified Random Walks
+    - [x] Exercise 15-5: Refactoring
     - [ ] Exercise 15-6: Two D8s
     - [ ] Exercise 15-7: Three Dice
     - [ ] Exercise 15-8: Multiplication
