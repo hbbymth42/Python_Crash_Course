@@ -158,8 +158,8 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
             - Ship Laser: https://pixabay.com/sound-effects/shoot02wav-14562/
     - [x] Exercise 14-8: Sideways Shooter, Final Version
 - [ ] Chapter 15 - Generating Data
-    - [ ] Exercise 15-1: Cubes
-    - [ ] Exercise 15-2: Coloured Cubes
+    - [x] Exercise 15-1: Cubes
+    - [x] Exercise 15-2: Coloured Cubes
     - [ ] Exercise 15-3: Molecular Motion
     - [ ] Exercise 15-4: Modified Random Walks
     - [ ] Exercise 15-5: Refactoring
