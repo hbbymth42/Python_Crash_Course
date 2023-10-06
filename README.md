@@ -169,11 +169,11 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 15-9: Die Comprehensions
     - [x] Exercise 15-10: Practicing with Both Libraries
 - [ ] Chapter 16 - Downloading Data
-    - [ ] Exercise 16-1: Sitka Rainfall
-    - [ ] Exercise 16-2: Sitka-Death Valley Comparison
-    - [ ] Exercise 16-3: San Francisco
-    - [ ] Exercise 16-4: Automatic Indexes
-    - [ ] Exercise 16-5: Explore
+    - [x] Exercise 16-1: Sitka Rainfall
+    - [x] Exercise 16-2: Sitka-Death Valley Comparison
+    - [x] Exercise 16-3: San Francisco
+    - [x] Exercise 16-4: Automatic Indexes
+    - [x] Exercise 16-5: Explore
     - [ ] Exercise 16-6: Refactoring
     - [ ] Exercise 16-7: Automated Title
     - [ ] Exercise 16-8: Recent Earthquakes
