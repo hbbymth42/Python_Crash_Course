@@ -157,17 +157,17 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
             - Ship Explosion: https://pixabay.com/sound-effects/explosion-6055/
             - Ship Laser: https://pixabay.com/sound-effects/shoot02wav-14562/
     - [x] Exercise 14-8: Sideways Shooter, Final Version
-- [ ] Chapter 15 - Generating Data
+- [x] Chapter 15 - Generating Data
     - [x] Exercise 15-1: Cubes
     - [x] Exercise 15-2: Coloured Cubes
     - [x] Exercise 15-3: Molecular Motion
     - [x] Exercise 15-4: Modified Random Walks
     - [x] Exercise 15-5: Refactoring
-    - [ ] Exercise 15-6: Two D8s
-    - [ ] Exercise 15-7: Three Dice
-    - [ ] Exercise 15-8: Multiplication
-    - [ ] Exercise 15-9: Die Comprehensions
-    - [ ] Exercise 15-10: Practicing with Both Libraries
+    - [x] Exercise 15-6: Two D8s
+    - [x] Exercise 15-7: Three Dice
+    - [x] Exercise 15-8: Multiplication
+    - [x] Exercise 15-9: Die Comprehensions
+    - [x] Exercise 15-10: Practicing with Both Libraries
 - [ ] Chapter 16 - Downloading Data
     - [ ] Exercise 16-1: Sitka Rainfall
     - [ ] Exercise 16-2: Sitka-Death Valley Comparison
