@@ -168,16 +168,16 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 15-8: Multiplication
     - [x] Exercise 15-9: Die Comprehensions
     - [x] Exercise 15-10: Practicing with Both Libraries
-- [ ] Chapter 16 - Downloading Data
+- [x] Chapter 16 - Downloading Data
     - [x] Exercise 16-1: Sitka Rainfall
     - [x] Exercise 16-2: Sitka-Death Valley Comparison
     - [x] Exercise 16-3: San Francisco
     - [x] Exercise 16-4: Automatic Indexes
     - [x] Exercise 16-5: Explore
-    - [ ] Exercise 16-6: Refactoring
-    - [ ] Exercise 16-7: Automated Title
-    - [ ] Exercise 16-8: Recent Earthquakes
-    - [ ] Exercise 16-9: World Fires
+    - [x] Exercise 16-6: Refactoring
+    - [x] Exercise 16-7: Automated Title
+    - [x] Exercise 16-8: Recent Earthquakes
+    - [x] Exercise 16-9: World Fires
 - [ ] Chapter 17 - Working with APIs
     - [ ] Exercise 17-1: Other Languages
     - [ ] Exercise 17-2: Active Discussions
