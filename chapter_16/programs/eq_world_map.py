@@ -17,7 +17,7 @@ for eq_dict in all_eq_dicts:
     lon = eq_dict['geometry']['coordinates'][0]
     lat = eq_dict['geometry']['coordinates'][1]
     eq_title = eq_dict['properties']['title']
-    mags.append(eq_dict['properties']['mag'])
+    mags.append(mag)
     lons.append(lon)
     lats.append(lat)
     eq_titles.append(eq_title)
