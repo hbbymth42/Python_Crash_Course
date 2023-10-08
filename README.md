@@ -178,11 +178,11 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 16-7: Automated Title
     - [x] Exercise 16-8: Recent Earthquakes
     - [x] Exercise 16-9: World Fires
-- [ ] Chapter 17 - Working with APIs
-    - [ ] Exercise 17-1: Other Languages
-    - [ ] Exercise 17-2: Active Discussions
-    - [ ] Exercise 17-3: Testing python_repos.py
-    - [ ] Exercise 17-4: Further Exploration
+- [x] Chapter 17 - Working with APIs
+    - [x] Exercise 17-1: Other Languages
+    - [x] Exercise 17-2: Active Discussions
+    - [x] Exercise 17-3: Testing python_repos.py
+    - [x] Exercise 17-4: Further Exploration
 - [ ] Chapter 18 - Getting Started with Django
     - [ ] Exercise 18-1: New Projects
     - [ ] Exercise 18-2: Short Entries
