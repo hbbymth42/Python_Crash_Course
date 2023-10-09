@@ -184,7 +184,7 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 17-3: Testing python_repos.py
     - [x] Exercise 17-4: Further Exploration
 - [ ] Chapter 18 - Getting Started with Django
-    - [ ] Exercise 18-1: New Projects
+    - [x] Exercise 18-1: New Projects
     - [ ] Exercise 18-2: Short Entries
     - [ ] Exercise 18-3: The Django API
     - [ ] Exercise 18-4: Pizzeria
