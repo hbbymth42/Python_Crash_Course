@@ -185,9 +185,8 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 17-4: Further Exploration
 - [ ] Chapter 18 - Getting Started with Django
     - [x] Exercise 18-1: New Projects
-    - [ ] Exercise 18-2: Short Entries
-    - [ ] Exercise 18-3: The Django API
-    - [ ] Exercise 18-4: Pizzeria
+    - [x] Exercise 18-2: Short Entries
+    - [x] Exercise 18-4: Pizzeria
     - [ ] Exercise 18-5: Meal Planner
     - [ ] Exercise 18-6: Pizzeria Home Page
     - [ ] Exercise 18-7: Template Documentation
