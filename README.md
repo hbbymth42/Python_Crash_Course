@@ -183,14 +183,13 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 17-2: Active Discussions
     - [x] Exercise 17-3: Testing python_repos.py
     - [x] Exercise 17-4: Further Exploration
-- [ ] Chapter 18 - Getting Started with Django
+- [x] Chapter 18 - Getting Started with Django
     - [x] Exercise 18-1: New Projects
     - [x] Exercise 18-2: Short Entries
     - [x] Exercise 18-4: Pizzeria
     - [x] Exercise 18-5: Meal Planner
     - [x] Exercise 18-6: Pizzeria Home Page
-    - [ ] Exercise 18-7: Template Documentation
-    - [ ] Exercise 18-8: Pizzeria Pages
+    - [x] Exercise 18-8: Pizzeria Pages
 - [ ] Chapter 19 - User Accounts
     - [ ] Exercise 19-1: Blog
     - [ ] Exercise 19-2: Blog Accounts
