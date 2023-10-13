@@ -192,7 +192,7 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 18-8: Pizzeria Pages
 - [ ] Chapter 19 - User Accounts
     - [x] Exercise 19-1: Blog
-    - [ ] Exercise 19-2: Blog Accounts
+    - [x] Exercise 19-2: Blog Accounts
     - [ ] Exercise 19-3: Refactoring
     - [ ] Exercise 19-4: Protecting new_entry
     - [ ] Exercise 19-5: Protected Blog
