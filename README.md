@@ -190,12 +190,12 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 18-5: Meal Planner
     - [x] Exercise 18-6: Pizzeria Home Page
     - [x] Exercise 18-8: Pizzeria Pages
-- [ ] Chapter 19 - User Accounts
+- [x] Chapter 19 - User Accounts
     - [x] Exercise 19-1: Blog
     - [x] Exercise 19-2: Blog Accounts
-    - [ ] Exercise 19-3: Refactoring
-    - [ ] Exercise 19-4: Protecting new_entry
-    - [ ] Exercise 19-5: Protected Blog
+    - [x] Exercise 19-3: Refactoring
+    - [x] Exercise 19-4: Protecting new_entry
+    - [x] Exercise 19-5: Protected Blog
 - [ ] Chapter 20 - Styling and Deploying an App
     - [ ] Exercise 20-1: Other Forms
     - [ ] Exercise 20-2: Stylish Blog
