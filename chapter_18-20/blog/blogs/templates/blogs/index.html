@@ -1,6 +1,13 @@
 {% extends 'blogs/base.html' %}
 
-{% block content %}
-    <p>This site lets you create your own blogs, for any topic that you're
-    interested in!</p>
-{% endblock content %}
+{% block page_header %}
+    <div class="p-3 mb-4 bg-light border rounded-3">
+        <div class="container-fluid py-4">
+            <h1 class="display-3">Blog your interests!</h1>
+
+            <p class="lead">Make your own blog, and share posts about what you're interested in! For any topic, from A-Z, any blog is welcome here!</p>
+            <a class="btn btn-primary btn-lg mt-1"
+                href="{% url 'accounts:register' %}">Register &raquo;</a>
+        </div>
+    </div>
+{% endblock page_header %}

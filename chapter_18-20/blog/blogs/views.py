@@ -32,7 +32,9 @@ def new_blog(request):
         # POST data submitted; processed data.
         form = BlogForm(data=request.POST)
         if form.is_valid():
-            form.save()
+            new_blog = form.save(commit=False)
+            new_blog.owner = request.user
+            new_blog.save()
             return redirect('blogs:blogs')
     
     # Display a blank or invalid form.
@@ -56,7 +58,7 @@ def new_post(request, blog_id):
             new_post = form.save(commit=False)
             new_post.blog = blog
             new_post.save()
-            return redirect('blogs:blog', blog_id = blog.id)
+            return redirect('blogs:blog', blog_id=blog_id)
     
     # Display a blank or invalid form.
     context = {'blog': blog, 'form': form}
@@ -78,7 +80,7 @@ def edit_post(request, post_id):
         form = PostForm(instance=post, data=request.POST)
         if form.is_valid():
             form.save()
-            return redirect('blogs/edit_post', blog_id=blog.id)
+            return redirect('blogs:blog', blog_id=blog.id)
     
     context = {'post': post, 'blog': blog, 'form': form}
     return render(request, 'blogs/edit_post.html', context)
