@@ -5,10 +5,13 @@
 {% endblock page_header %}
 
 {% block content %}
-    <p>
-        <a href="{% url 'learning_logs:new_entry' topic.id %}">Add new entry</a>
-    </p>
 
+    {% if is_owner %}
+        <p>
+            <a href="{% url 'learning_logs:new_entry' topic.id %}">Add new entry</a>
+        </p>
+    {% endif %}
+    
     {% for entry in entries %}
         <div class="card mb-3">
             <!-- Card header with timestamp and edit link -->

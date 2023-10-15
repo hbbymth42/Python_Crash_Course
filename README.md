@@ -196,8 +196,8 @@ Completed Python Crash Course Practical Exercises from the [Book](https://nostar
     - [x] Exercise 19-3: Refactoring
     - [x] Exercise 19-4: Protecting new_entry
     - [x] Exercise 19-5: Protected Blog
-- [ ] Chapter 20 - Styling and Deploying an App
+- [x] Chapter 20 - Styling and Deploying an App
     - [x] Exercise 20-1: Other Forms
     - [x] Exercise 20-2: Stylish Blog
-    - [ ] Exercise 20-3: Live Blog
-    - [ ] Exercise 20-4: Extended Learning Log
+    - [x] Exercise 20-3: Live Blog
+    - [x] Exercise 20-4: Extended Learning Log
